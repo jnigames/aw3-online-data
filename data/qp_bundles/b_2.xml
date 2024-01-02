@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuickPlayBundle name="Containment Map Competition" id="1" version="2" date="1667999701">
+    <items>
+        <QuickPlayBundleItem sid="2908725954" x="0" y="0" w="2" h="2" />
+        <QuickPlayBundleItem sid="2907482599" x="2" y="0" w="1" h="1" />
+        <QuickPlayBundleItem sid="2910130971" x="2" y="1" w="1" h="1" />
+
+        <QuickPlayBundleItem sid="2909075190" x="1" y="2" w="2" h="2" />
+        <QuickPlayBundleItem sid="2905159721" x="0" y="2" w="1" h="1" />
+        <QuickPlayBundleItem sid="2909782036" x="0" y="3" w="1" h="1" />
+
+        <QuickPlayBundleItem sid="2909967799" x="0" y="4" w="1" h="1" />
+        <QuickPlayBundleItem sid="2905449308" x="1" y="4" w="1" h="1" />
+        <QuickPlayBundleItem sid="2909979086" x="2" y="4" w="1" h="1" />
+    </items>
+</QuickPlayBundle>

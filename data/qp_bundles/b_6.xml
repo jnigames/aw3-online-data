@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuickPlayBundle name="Space Wars Map Competition" id="6" version="0" date="1687807231">
+    <items>
+        <QuickPlayBundleItem sid="2991984058" x="0" y="0" w="2" h="2" />
+        <QuickPlayBundleItem sid="2988689813" x="2" y="0" w="1" h="1" />
+        <QuickPlayBundleItem sid="2989393977" x="2" y="1" w="1" h="1" />
+
+        <QuickPlayBundleItem sid="2983108099" x="0" y="2" w="1" h="1" />
+        <QuickPlayBundleItem sid="2991841535" x="1" y="2" w="1" h="1" />
+        <QuickPlayBundleItem sid="2988092685" x="2" y="2" w="1" h="1" />
+
+        <QuickPlayBundleItem sid="2991291575" x="0" y="3" w="1" h="1" />
+    </items>
+</QuickPlayBundle>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuickPlayBundleManifest>
+    <bundles>
+        <BundleManifestData id="1" version="0" />
+        <BundleManifestData id="2" version="2" />
+        <BundleManifestData id="3" version="0" />
+        <BundleManifestData id="4" version="0" />
+        <BundleManifestData id="5" version="0" />
+        <BundleManifestData id="6" version="0" />
+        <BundleManifestData id="7" version="0" />
+        <BundleManifestData id="8" version="0" />
+    </bundles>
+</QuickPlayBundleManifest>

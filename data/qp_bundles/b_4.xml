@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuickPlayBundle name="Castle Map Competition" id="4" version="0" date="1676995005">
+    <items>
+        <QuickPlayBundleItem sid="2935310658" x="0" y="0" w="2" h="2" />
+        <QuickPlayBundleItem sid="2936506185" x="2" y="0" w="1" h="1" />
+        <QuickPlayBundleItem sid="2928810122" x="2" y="1" w="1" h="1" />
+
+        <QuickPlayBundleItem sid="2928677841" x="0" y="2" w="1" h="1" />
+        <QuickPlayBundleItem sid="2935087657" x="1" y="2" w="1" h="1" />
+        <QuickPlayBundleItem sid="2936492585" x="2" y="2" w="1" h="1" />
+
+        <QuickPlayBundleItem sid="2934768941" x="0" y="3" w="1" h="1" />
+        <QuickPlayBundleItem sid="2934964430" x="1" y="3" w="1" h="1" />
+        <QuickPlayBundleItem sid="2935568225" x="2" y="3" w="1" h="1" />
+    </items>
+</QuickPlayBundle>
