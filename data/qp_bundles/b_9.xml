@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuickPlayBundle name="Beyond the Horizon Map Competition" id="9" version="0" date="1709654650">
+    <items>
+        <QuickPlayBundleItem sid="3162424983" x="0" y="0" w="2" h="2" />
+        <QuickPlayBundleItem sid="3166581101" x="2" y="0" w="1" h="1" />
+        <QuickPlayBundleItem sid="3165557466" x="2" y="1" w="1" h="1" />
+
+        <QuickPlayBundleItem sid="3166970098" x="0" y="2" w="1" h="1" />
+        <QuickPlayBundleItem sid="3157535518" x="1" y="2" w="1" h="1" />
+        <QuickPlayBundleItem sid="3157516829" x="2" y="2" w="1" h="1" />
+    </items>
+</QuickPlayBundle>
