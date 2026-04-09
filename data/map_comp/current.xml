@@ -1,8 +1,8 @@
 <MapCompetition>
-    <name>28 Updates Later</name>
-    <description>The dead are rising from their graves to attack the living! For this competition, you are tasked with creating a Zombie Survival scenario involving any setting or time period of your choice. From WW1 soldiers defending their trench against hordes of the ravenous dead, to special forces teams trying to contain a zombie outbreak in a lab, to medieval knights defending their castle against a brain-hungry army, to whatever scenario you can conceivably imagine that pitches the player against the walking dead.</description>
-    <startTime>1755269335</startTime>
-    <endTime>1756029600</endTime>
-    <lbId>MAP_COMP_AUG_25</lbId>
-    <rulesUrl>https://steamcommunity.com/app/758990/discussions/0/524225618711268565</rulesUrl>
+    <name>Cafe Map Competition</name>
+    <description>Create a cafe build in one of five styles: Modern, Vintage, Chic, Garden, or Custom. Submit a playable map or a showcase build. Each category will have three winners, with custom rewards themed to their cafe style. Entries will be judged on theme accuracy, creativity, visual design, layout, and technical skill, with optional playability scoring. Submissions are open from April 9 to April 19, so get building and make your cafe stand out. Remember to include the category name in your map title.</description>
+    <startTime>1775752080</startTime>
+    <endTime>1776632400</endTime>
+    <lbId>MAP_COMP_APR_26</lbId>
+    <rulesUrl>https://steamcommunity.com/app/758990/discussions/0/797840845858471765</rulesUrl>
 </MapCompetition>
